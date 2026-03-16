@@ -7,7 +7,7 @@ export default function handler(req, res) {
     chlink: "https://whatsapp.com/channel/0029Vb2ykk1GzzKRWrHROf1D",
     reponame: "",
     supglink: "https://chat.whatsapp.com/BVCFuD2qEXzGEatQzk41Ff",
-    mainchanal: "120363380090478709@newsletter",
+    mainchanal: "120363390966594137@newsletter",
     megaurl: "https://mega.nz/file/yh5yhYYI#woOBsYxvdqHyMVvP488dbN5F3PUd3aBRs0G-BY29-ig",
     megaurl2: "https://mega.nz/file/URpjXJwQ#1X6KvOUQqiiKttI7k_ovO4SiicmEGRDFKqjcPvPM8oc",
     megaurlindex: "https://mega.nz/file/AQgECLiK#FqImK8xRQLcLSwXGWCdget_abL_DeJaFC3juthUsfLI",
